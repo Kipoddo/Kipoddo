@@ -11,7 +11,7 @@
 
 ↓ I am a bilingual native speaker of both English and Hebrew. I have contributed translations to the projects below. ↓
 
-- Translated [Movie Web](https://github.com/movie-web) to Hebrew
+- Fully translated [Movie Web](https://github.com/movie-web) to Hebrew
 - ... Currently seeking more projects to translate! ...
 
 [![Translation Status](https://img.shields.io/badge/translations-100%25-brightgreen.svg)](https://weblate.movie-web.app/projects/movie-web/website/he/)
