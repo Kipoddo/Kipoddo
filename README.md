@@ -1,4 +1,5 @@
 - :frog:  Kipoddo :frog: 
+~---------------------------~
 - 👋 Hi, I’m @Kipoddo
 - 👀 I’m interested in App development, Web development, Translation, Graphic design
 - 🌱 I’m currently learning Java
