@@ -1,15 +1,14 @@
-- :frog:  Kipoddo :frog: 
-~---------------------------~
-- 👋 Hi, I’m @Kipoddo
-- 👀 I’m interested in App development, Web development, Translation, Graphic design
-- 🌱 I’m currently learning Java
-- 📫 Discord: Kipoddo
+# :frog: Kipoddo :frog:
 
-:frog:  Kipoddo :frog: 
+👋 Hi, I'm [@Kipoddo](https://github.com/Kipoddo), a passionate solo Roblox developer.
 
-:hammer: • Solo Roblox developer
+- 👀 I'm interested in App development, Web development, Translation, and Graphic design.
+- 🌱 Currently learning Java.
+- :hammer: Solo Roblox developer.
+- :star: Contributed to over 15M visits.
 
-:star: • Contributed to over 15M visits
+📫 Connect with me on Discord: Kipoddo.
+
 <!---
 Kipoddo/Kipoddo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
