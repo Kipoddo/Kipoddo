@@ -1,6 +1,6 @@
 # :frog: Kipoddo :frog:
 
-👋 Hi, I'm [@Kipoddo](https://github.com/Kipoddo), a passionate solo Roblox developer.
+👋 Hi, I'm [@Kipoddo](https://github.com/Kipoddo), a solo Roblox developer, translator and graphic designer.
 
 - 👀 I'm interested in App development, Web development, Translation, and Graphic design.
 - 🌱 Currently learning Java.
