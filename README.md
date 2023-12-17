@@ -4,8 +4,16 @@
 
 - 👀 I'm interested in App development, Web development, Translation, and Graphic design.
 - 🌱 Currently learning Java.
-- :hammer: Solo Roblox developer.
-- :star: Contributed to over 15M visits.
+- 🔨 Solo Roblox developer.
+- ⭐ Contributed to over 15M visits.
+
+## 🔓 Roblox FPS Unlocker
+
+- 🔨 Developed the [Roblox FPS Unlocker](https://github.com/Kipoddo/RobloxFPSunlocker) project, which uncaps the Roblox FPS limit.
+- ⚙️ Open Source | Batch File Operation | Resource Efficient | Simple to Use | Compact (4KB)
+
+[![GitHub stars](https://img.shields.io/github/stars/Kipoddo/RobloxFPSunlocker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Kipoddo/RobloxFPSunlocker)
+
 
 ## 🌐 Translation Contributions
 
