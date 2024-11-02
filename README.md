@@ -1,10 +1,10 @@
 # 🐸 Kipoddo 🐸
 
-- ~👋 Hi, I'm [@Kipoddo](https://github.com/Kipoddo), a solo Roblox developer, translator, and graphic designer. Native speaker of both English and Hebrew. ~
+- ~👋 Hi, I'm [@Kipoddo](https://github.com/Kipoddo), a solo Frontend Developer, Translator, and Graphic Designer. Native speaker of both English and Hebrew. ~
 
 - 👀 I'm interested in App development, Web development, Translation, and Graphic design.
 - 🌱 Currently learning Java.
-- 🔨 Solo Roblox developer.
+- 🔨 Solo Frontend Developer.
 - ⭐ Contributed to over 15M visits.
 
 ## 🔓 Roblox FPS Unlocker
